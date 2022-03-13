@@ -32,7 +32,7 @@ phases:
   #pre_build:
     #commands:
       # - command
-      # - command
+      # - commmand
   build:
     commands:
       - mvn compile
